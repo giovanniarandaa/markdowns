@@ -16,7 +16,7 @@ Return units
 {
     "success" : true,
     "message" : "completed",
-    "items":{
+    "items":[
         {
             "id": "dshaoidh18724141",
             "builiding": "Nombre del edificio",
@@ -53,7 +53,7 @@ Return units
                 "id": "4920j1209re12"
             }
         }
-    }
+    ]
 }
 ```
 
@@ -162,7 +162,7 @@ Detail unit
             "image": "imagen.jpg",
             "id": "4920j1209re12"
         },
-        "fields":{
+        "fields":[
             {
                 "name": "Nombre",
                 "value": "Valor",
@@ -182,7 +182,7 @@ Detail unit
                 "visible": false 
             }
             
-        }
+        ]
     }
 }
 ```
